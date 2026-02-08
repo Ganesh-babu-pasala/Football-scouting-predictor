@@ -64,3 +64,8 @@ These files allow predictions without retraining each time.
 
 - pip install -r requirements.txt
 - streamlit run app.py
+
+
+## Dataset Source
+
+This project uses a publicly available FIFA player dataset obtained from Kaggle for educational and analytics prototyping purposes. All analysis and modelling work in this repository was developed independently on top of that dataset.
